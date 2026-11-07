@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/zakat-php-mudaraba-profit-split",
+  "description": "Mudaraba & Diminishing Musharaka Profit/Loss Waterfall Engine (موزع أرباح المضاربة والمشاركة المتناقصة الشرعية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
